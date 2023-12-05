@@ -1,0 +1,13 @@
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\bin\Debug\netcoreapp3.1\TryCatchExceptions.exe
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\bin\Debug\netcoreapp3.1\TryCatchExceptions.deps.json
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\bin\Debug\netcoreapp3.1\TryCatchExceptions.runtimeconfig.json
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\bin\Debug\netcoreapp3.1\TryCatchExceptions.runtimeconfig.dev.json
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\bin\Debug\netcoreapp3.1\TryCatchExceptions.dll
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\bin\Debug\netcoreapp3.1\TryCatchExceptions.pdb
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\obj\Debug\netcoreapp3.1\TryCatchExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\obj\Debug\netcoreapp3.1\TryCatchExceptions.AssemblyInfoInputs.cache
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\obj\Debug\netcoreapp3.1\TryCatchExceptions.AssemblyInfo.cs
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\obj\Debug\netcoreapp3.1\TryCatchExceptions.csproj.CoreCompileInputs.cache
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\obj\Debug\netcoreapp3.1\TryCatchExceptions.dll
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\obj\Debug\netcoreapp3.1\TryCatchExceptions.pdb
+D:\study2\ProgrammingPractices\CSharp\TryCatchExceptions\obj\Debug\netcoreapp3.1\TryCatchExceptions.genruntimeconfig.cache
