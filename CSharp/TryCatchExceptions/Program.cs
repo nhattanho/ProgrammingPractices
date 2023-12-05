@@ -46,7 +46,7 @@ namespace TryCatchExceptions
                     // need to rethrow to be caught in the next Catch
                     //throw;      // preserves the original stack trace of exception
                     // throw ex; // update the StackTrace
-                    //throw new Exception("Go to outside Catch!"); // update the StackTrace
+                    throw new Exception("Go to outside Catch!"); // update the StackTrace
                 }
                 catch (Exception ex)
                 {
