@@ -1,0 +1,11 @@
+# Time Complexity: O(nlogn)
+# Space Complexity: O(1)
+
+# Heapsort also introduces another algorithm design technique:
+# using a data structure - heap to manage information
+
+# Max heap: is a complete binary tree in which the value of a node is greater
+# than or equal to the values of its children. Max Heap data structure is useful
+# for sorting data using heap sort. A[Parent[i]] >= A[i]
+
+# Min heap: is organized in the opposite way. A[Parent[i]] <= A[i]
