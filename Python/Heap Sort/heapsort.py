@@ -1,3 +1,11 @@
+# Time Complexity: O(nlogn)
+# Space Complexity: O(1)
+
+''' Time Complexity
+Best Case: O(n log n)
+Average Case: O(n log n)
+Worst Case: O(n log n)
+'''
 # O(logn) - adjust value to keep maxheap
 # Went down the tree from i position 
 # <=> height of the tree
