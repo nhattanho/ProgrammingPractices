@@ -3,7 +3,7 @@
 devide and conquer
 Time Complexity: O(nlogn) - worst case in case of having sorted list already: O(n^2)
 https://www.youtube.com/watch?v=-qOVVRIZzao
-Space Complexity: O(logn) -> O(n)
+Space Complexity: O(logn): normal case -> O(n): sorted list array
 '''
 def partition(arr, low, high):
     i = low - 1
